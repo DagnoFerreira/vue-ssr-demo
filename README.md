@@ -1,3 +1,8 @@
+
+**For a more up-to-date and complete SSR example with vue-router and vuex integration, check out [vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0).**
+
+---
+
 # vue-ssr-demo
 
 Demo for Vue 2.0 server-side rendering. [Live link](https://vue-ssr-demo-clelqhiaxt.now.sh/)
